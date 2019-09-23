@@ -1,0 +1,25 @@
+{
+  "name": "react-native-word-cloud",
+  "version": "1.0.0",
+  "description": "Simple wordcloud generator for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "word",
+    "cloud",
+    "wordcloud",
+    "word-cloud",
+    "buuble",
+    "bubble-chart",
+    "visualization"
+  ],
+  "author": "AbhilashJN",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-canvas": "^0.1.34",
+    "react-native-webview": "^7.2.5"
+  }
+}
