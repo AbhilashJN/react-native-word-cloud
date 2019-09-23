@@ -1,6 +1,6 @@
 {
   "name": "react-native-word-cloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple wordcloud generator for react-native",
   "main": "index.js",
   "scripts": {
