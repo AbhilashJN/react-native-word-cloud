@@ -99,18 +99,17 @@ export const drawCirclesOnCanvas = (circles, canvas, drawContainerCircle, contai
   ctx.fill();
   }
   ctx.closePath();
-  for (let i = 0; i < circles.length; i += 1) {
-    const obj = circles[i];
+  circles.forEach(circle => {
     ctx.beginPath();
-    ctx.arc(obj.x, obj.y, obj.size , 0, Math.PI * 2, true);
+    ctx.arc(circle.x, circle.y, circle.size , 0, Math.PI * 2, true);
     ctx.closePath();
-    ctx.fillStyle = obj.color;
+    ctx.fillStyle = circle.color;
     ctx.lineWidth = 0;
     ctx.fill();
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
-    ctx.font = `lighter ${Math.floor(obj.size / 4)}px sans-serif`;
+    ctx.font = `lighter ${Math.floor(circle.size / 4)}px sans-serif`;
     ctx.fillStyle = '#000000';
-    ctx.fillText(obj.label, obj.x, obj.y);
-  }
+    ctx.fillText(circle.label, circle.x, circle.y);
+  });
 };
