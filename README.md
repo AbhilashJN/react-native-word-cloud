@@ -46,3 +46,23 @@ class App extends Component {
 * **drawContainerCircle** : boolean which determines whether or not to draw a container circle around the word cloud. Defaults to **false**
 
 * **containerCircleColor** : fill color for the container circle. Defaults to **'#FF000030'**
+
+
+## Screenshots
+
+- **Example with largestAtCenter=true and drawContainerCircle=false**
+
+![Example with largestAtCenter=true and drawContainerCircle=false](/screenshots/ss1.png?raw=true "Example with largestAtCenter=true and drawContainerCircle=false")
+
+
+- **Example with largestAtCenter=false and drawContainerCircle=false**
+
+![Example with largestAtCenter=false and drawContainerCircle=false](/screenshots/ss2.png?raw=true "Example with largestAtCenter=false and drawContainerCircle=false")
+
+- **Example with largestAtCenter=true and drawContainerCircle=true**
+
+![Example with largestAtCenter=true and drawContainerCircle=true](/screenshots/ss3.png?raw=true "Example with largestAtCenter=true and drawContainerCircle=true")
+
+- **Example with largestAtCenter=false and drawContainerCircle=true**
+
+![Example with largestAtCenter=false and drawContainerCircle=true](/screenshots/ss4.png?raw=true "Example with largestAtCenter=false and drawContainerCircle=true")
