@@ -33,18 +33,6 @@ class KeywordsCloud extends React.Component {
 }
 
 KeywordsCloud.defaultProps = {
-    keywords: [
-        {keyword:'word1', frequency:100, color:'#7F73C4'},
-        {keyword:'word2', frequency:87,color:'#F09A98'},
-        {keyword:'word3', frequency:124, color:'#9CEDC6'},
-        {keyword:'word4', frequency:135, color:'#92CEED'},
-        {keyword:'word5', frequency:163, color:'#F6CA9C'},
-        {keyword:'word6', frequency:94, color:'#FAE59F'},
-        {keyword:'word7', frequency:143, color:'#D099F9'},
-        {keyword:'word9', frequency:102, color:'#F09AB9'},
-        {keyword:'word9', frequency:118, color:'#9AADF9'},
-        {keyword:'word10', frequency:64, color:'#B8FCA0'},
-    ],
     scale: 250,
     largestAtCenter: true,
     drawContainerCircle: false,
