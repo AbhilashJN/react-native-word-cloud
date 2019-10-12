@@ -52,17 +52,17 @@ class App extends Component {
 
 - **Example with largestAtCenter=true and drawContainerCircle=false**
 
-![Example with largestAtCenter=true and drawContainerCircle=false](/screenshots/ss1.png?raw=true "Example with largestAtCenter=true and drawContainerCircle=false")
+![Example with largestAtCenter=true and drawContainerCircle=false](https://raw.githubusercontent.com/AbhilashJN/react-native-word-cloud/master/screenshots/ss1.png "Example with largestAtCenter=true and drawContainerCircle=false")
 
 
 - **Example with largestAtCenter=false and drawContainerCircle=false**
 
-![Example with largestAtCenter=false and drawContainerCircle=false](/screenshots/ss2.png?raw=true "Example with largestAtCenter=false and drawContainerCircle=false")
+![Example with largestAtCenter=false and drawContainerCircle=false](https://raw.githubusercontent.com/AbhilashJN/react-native-word-cloud/master/screenshots/ss2.png "Example with largestAtCenter=false and drawContainerCircle=false")
 
 - **Example with largestAtCenter=true and drawContainerCircle=true**
 
-![Example with largestAtCenter=true and drawContainerCircle=true](/screenshots/ss3.png?raw=true "Example with largestAtCenter=true and drawContainerCircle=true")
+![Example with largestAtCenter=true and drawContainerCircle=true](https://raw.githubusercontent.com/AbhilashJN/react-native-word-cloud/master/screenshots/ss3.png "Example with largestAtCenter=true and drawContainerCircle=true")
 
 - **Example with largestAtCenter=false and drawContainerCircle=true**
 
-![Example with largestAtCenter=false and drawContainerCircle=true](/screenshots/ss4.png?raw=true "Example with largestAtCenter=false and drawContainerCircle=true")
+![Example with largestAtCenter=false and drawContainerCircle=true](https://raw.githubusercontent.com/AbhilashJN/react-native-word-cloud/master/screenshots/ss4.png "Example with largestAtCenter=false and drawContainerCircle=true")
